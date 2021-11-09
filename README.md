@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=fei-hdu&show_icons=true&theme=radical&hide=contribs,prs)
 
-![妙绘艺术小程序](https://user-images.githubusercontent.com/3213419/140863320-38ae6801-b2a2-4011-ae98-c0b02d9cd2cd.jpg)
+![miaohui_430](https://user-images.githubusercontent.com/3213419/140863596-48f2e0ba-95cc-4d2f-ba5a-76cb056ea84d.jpg)
