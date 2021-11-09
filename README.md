@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=fei-hdu&show_icons=true&theme=radical&hide=contribs,prs)
-
-![miaohui_430](https://user-images.githubusercontent.com/3213419/140863596-48f2e0ba-95cc-4d2f-ba5a-76cb056ea84d.jpg)
+![miaohui_100](https://user-images.githubusercontent.com/3213419/140863755-279ac349-ccbe-434b-98d9-a82f60b0075f.jpg)
