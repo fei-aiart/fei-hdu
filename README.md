@@ -22,5 +22,13 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=fei-hdu&show_icons=true&theme=radical&hide=contribs,prs)
+<img src="https://user-images.githubusercontent.com/3213419/140863897-b51af025-1e90-4ff9-b15a-fc46db82c837.jpg" height="150">
+
+<!--
 ![miaohui_130](https://user-images.githubusercontent.com/3213419/140863897-b51af025-1e90-4ff9-b15a-fc46db82c837.jpg)
 
+<p align="center">
+<img src="/.github/README/ICON.png" height="150">
+</p>
+
+-->
