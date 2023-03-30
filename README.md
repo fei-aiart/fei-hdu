@@ -1,6 +1,5 @@
 ### 高飞 Fei Gao 
-- Associate Professor, Hangzhou Dianzi University
-- 副教授，杭州电子科技大学 计算机学院
+
 
 <!--
 
